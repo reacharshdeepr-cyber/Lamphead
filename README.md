@@ -8,6 +8,12 @@ The game revolves around **two primary interconnected loops**: short-term surviv
 
 ---
 
+## LAMPHEAD on Itch.io
+
+[https://trakr21.itch.io/lamphead](url)
+
+---
+
 ## 🛠️ Core Gameplay Systems (Script Architecture)
 
 ### 1. The Lamphead Controller (`Player` & `Light` Subsystems)
