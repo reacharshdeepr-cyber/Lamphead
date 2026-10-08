@@ -55,12 +55,14 @@ The hostile AI tracks the player's status properties globally to transition betw
 ---
 
 ## 📂 Repository File Guide
-*(Since this is a script-focused portfolio repository, look into the following main directories to review the architectural design)*:
-* `/Scripts/Player/` — Movement state handling and input routing.
-* `/Scripts/Light/` — Resource depletion math and dynamic scaling algorithms.
-* `/Scripts/AI/` — Threat state transitions and tracking systems.
-* `/Scripts/World/` — Procedural room generation math and dynamic probability weight arrays.
+*(Review the individual architectural design blocks directly in the root directory)*:
 
+- **Core Loop & State Management:** `main.gd`, `globals.gd`
+- **Player Controller & Input:** `player.gd`, `CameraController.gd`
+- **Light & Resource Systems:** `LightManager.gd`, `Mouselighting.gd`
+- **Enemy AI State Machine:** `monster.gd`
+- **World & Map Procedural Gen:** `room.gd`, `RoomManager.gd`, `TableActivation.gd`
+- **Game Progression & HUD UI:** `PickupLogic.gd`, `UI.gd`, `RoomsSurvived.gd`, `gameOverScreen.gd`
 ---
 
 ## 📄 License
