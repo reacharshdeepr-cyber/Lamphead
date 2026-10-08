@@ -10,7 +10,7 @@ The game revolves around **two primary interconnected loops**: short-term surviv
 
 ## LAMPHEAD on Itch.io
 
-[https://trakr21.itch.io/lamphead](url)
+👉 **[Click here to see the game on Itch.io!](https://trakr21.itch.io/lamphead)**
 
 ---
 
